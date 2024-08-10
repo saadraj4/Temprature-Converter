@@ -95,7 +95,7 @@ const TemperatureConverter = () => {
               <div className="inputs-container">
                 <Field
                   type="text"
-                  className="input-field inputs"
+                  className="input-field inputs resultclr"
                   name="resultValue"
                   id="result-box"
                   placeholder="0"
